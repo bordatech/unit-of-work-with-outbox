@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borda.UnitOfWork", "src\Borda.UnitOfWork\Borda.UnitOfWork.csproj", "{0035F7E4-6E7B-417D-8A56-0DFF20573D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Borda.UnitOfWork.SampleApplication", "src\Borda.UnitOfWork.SampleApplication\Borda.UnitOfWork.SampleApplication.csproj", "{998600E2-C92E-4517-98E3-79663F973300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0035F7E4-6E7B-417D-8A56-0DFF20573D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0035F7E4-6E7B-417D-8A56-0DFF20573D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0035F7E4-6E7B-417D-8A56-0DFF20573D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0035F7E4-6E7B-417D-8A56-0DFF20573D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998600E2-C92E-4517-98E3-79663F973300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998600E2-C92E-4517-98E3-79663F973300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998600E2-C92E-4517-98E3-79663F973300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998600E2-C92E-4517-98E3-79663F973300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
